@@ -36,14 +36,14 @@ _Did you use any aditional libraries? Describe them here._
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._
 
-### Project presentation
-* C1: [Project presentation](doc/c1.md)
+### Apresentação do Projeto
+* C1: [Apresentação do Projeto](docs/c1.md)
 ### User Interface 
-* C2: [User Interface Prototype and Sitemap](doc/c2.md)
+* C2: [User Interface Prototype and Sitemap](docs/c2.md)
 ### Product
-* C3: [Product](doc/c3.md)
+* C3: [Product](docs/c3.md)
 ### Presentation
-* C4: [Presentation](doc/c4.md)
+* C4: [Presentation](docs/c4.md)
 
 ## Equipa
 * Marco Filipe Teixeira Martins [@marcoftmartins](https://github.com/marcoftmartins)
