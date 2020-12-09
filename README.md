@@ -37,7 +37,7 @@ _Did you use any aditional libraries? Describe them here._
 _Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Apresentação do Projeto
-* C1: [Apresentação do Projeto](docs/c1.md)
+* C1: [Apresentação do Projeto](docs/apresentacao-projeto.md)
 ### User Interface 
 * C2: [User Interface Prototype and Sitemap](docs/c2.md)
 ### Product
