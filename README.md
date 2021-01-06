@@ -1,5 +1,4 @@
-# Trabalho Prático M1 - Pc Data
-
+# Trabalho Prático M1 - DMJ Informática
 Repositório criado no âmbito do trabalho prático M1, da disciplina de Técnologias Internet. Desenvolvido por [@marcoftmartins](https://github.com/marcoftmartins), [@ElCastrinho](https://github.com/ElCastrinho) e [@Johnnyzao](https://github.com/Johnnyzao)
 
 ## Breve Descrição
