@@ -12,7 +12,6 @@ Repositório criado no âmbito do trabalho prático M1, da disciplina de Técnol
 
 ## Organização do Repositório
 
-_Please help reader navigate around describing how the repository is organized by providing links_
 * **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
 * Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
 
