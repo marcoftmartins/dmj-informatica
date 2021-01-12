@@ -34,7 +34,7 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 ### Interface com o utilizador 
 * C2: [User Interface Prototype and Sitemap](docs/interface-utilizador.md)
 ### Produto
-* C3: [Product](docs/c3.md)
+* C3: [Product](docs/produto.md)
 ### Apresentação
 * C4: [Presentation](docs/c4.md)
 
