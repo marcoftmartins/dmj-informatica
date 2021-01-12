@@ -31,11 +31,11 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Apresentação do Projeto
 * C1: [Apresentação do Projeto](docs/apresentacao-projeto.md)
-### User Interface 
+### Interface com o utilizador 
 * C2: [User Interface Prototype and Sitemap](docs/interface-utilizador.md)
-### Product
+### Produto
 * C3: [Product](docs/c3.md)
-### Presentation
+### Apresentação
 * C4: [Presentation](docs/c4.md)
 
 ## Equipa
