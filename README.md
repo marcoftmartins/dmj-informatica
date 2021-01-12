@@ -32,11 +32,11 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 ### Apresentação do Projeto
 * C1: [Apresentação do Projeto](docs/apresentacao-projeto.md)
 ### Interface com o utilizador 
-* C2: [User Interface Prototype and Sitemap](docs/interface-utilizador.md)
+* C2: [Interface](docs/interface-utilizador.md)
 ### Produto
-* C3: [Product](docs/produto.md)
+* C3: [Produto](docs/produto.md)
 ### Apresentação
-* C4: [Presentation](docs/c4.md)
+* C4: [Apresentação](docs/c4.md)
 
 ## Equipa
 * Diogo Filipe Sousa Castro [@ElCastrinho](https://github.com/ElCastrinho)
