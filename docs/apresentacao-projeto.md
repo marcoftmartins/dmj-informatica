@@ -10,5 +10,5 @@
 
 # Group _xx_
 
-* Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
+* 
 * Other team members
