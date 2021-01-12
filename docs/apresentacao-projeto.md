@@ -1,4 +1,4 @@
-# TRABALHO PRÁTICO M1 – GRUPO 1
+## TRABALHO PRÁTICO M1 – GRUPO 1
 
   _O presente texto tem como objetivo apresentar e descrever o tema do trabalho prático M1 que irá ser realizado no âmbito da disciplina de tecnologias de internet por: Diogo Filipe Sousa Castro (A035179) , João Paulo Teixeira Carvalho (A035140)  e Marco Filipe Teixeira Martins (A035177)._ 
   _Relativamente ao nosso trabalho, iremos desenvolver um site para uma loja de informática com o objetivo de consultar produtos._ 
