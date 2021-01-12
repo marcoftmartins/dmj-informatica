@@ -8,9 +8,12 @@ B) Na aba "Sobre Nós" podemos encontar uma breve descrição sobre quem somos e
 
 C) Relativamente às Categorias, o utilizador terá acesso a uma 
 
+D) Por fim, em relação à aba dos "Contactos" é onde o utilizador poderá entrar em contacto diretamente connosco. Seja via telefónica ou via e-mail.
+
 ## 2 Formulário
 
-Neste site, estamos a usar o formulário como método de suporte! 
+Neste site, estamos a usar o formulário como método de suporte!
+
 Qualquer cliente/usuário que queira entrar em contacto connosco seja para esclarecer alguma dúvida ou até mesmo reclamar, poderá faze-lo através do mesmo.
 
 ## 3 Valadição do HTML5 e do CSS3
