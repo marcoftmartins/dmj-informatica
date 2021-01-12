@@ -8,7 +8,9 @@
   Com este trabalho temos a oportunidade de pôr em prática todos os conteúdos lecionados na disciplina durante o semestre e ainda desenvolver novas competências.
 
 
-# Group _xx_
+# Grupo 1
 
-* 
-* Other team members
+* Diogo Filipe Sousa Castro [@ElCastrinho](https://github.com/ElCastrinho)
+* João Paulo Teixeira Carvalho [@Johnnyzao](https://github.com/Johnnyzao)
+* Marco Filipe Teixeira Martins [@marcoftmartins](https://github.com/marcoftmartins)
+
