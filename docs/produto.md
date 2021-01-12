@@ -3,7 +3,9 @@
 No canto superior direito do nosso website encontraremos as seguintes abas: Home, Sobre Nós, Categorias e Contactos.
 
 A) O Home serve apenas para voltar à página principal.
+
 B) Na aba "Sobre Nós" podemos encontar uma breve descrição sobre quem somos e o nosso objectivo.
+
 C) Relativamente às Categorias, o utilizador terá acesso a uma 
 
 ## 2 Formulário
