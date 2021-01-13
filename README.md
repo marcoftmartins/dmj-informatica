@@ -14,6 +14,9 @@ O objetivo primordial deste site era conseguir fazer uma loja de informática, q
 
 ![](docs/imagens/header-promocoes.png)
 ![](docs/imagens/reviews-footer.png)
+![](docs/imagens/formulario-contacto.png)
+![](docs/imagens/info-produto.png)
+![](docs/imagens/sobre-nos.png)
 A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images
 
 ## Tecnologias Utilizadas
