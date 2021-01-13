@@ -33,7 +33,7 @@ O objetivo primordial deste site era conseguir fazer uma loja de informática, q
 ### Produto
 * C3: [Produto](docs/produto.md)
 ### Apresentação
-* C4: [Apresentação](docs/c4.md)
+* C4: [Apresentação](docs/dmj-informatica.pdf)
 
 ## Equipa
 * Diogo Filipe Sousa Castro [@ElCastrinho](https://github.com/ElCastrinho)
