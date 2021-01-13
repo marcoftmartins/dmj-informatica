@@ -13,7 +13,7 @@ O objetivo primordial deste site era conseguir fazer uma loja de informática, q
 ## Galeria
 
 _Please provide a galery of the final result, with small images_
-![Home HTML](imagens/imagem1.png)
+![Home HTML](docs/imagens/imagem1.png)
 A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images
 
 ## Tecnologias Utilizadas
