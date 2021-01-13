@@ -7,7 +7,7 @@ O objetivo primordial deste site era conseguir fazer uma loja de informática, q
 
 ## Organização do Repositório
 
-* **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
+* **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/dmj-informatica).
 * Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
 
 ## Galeria
