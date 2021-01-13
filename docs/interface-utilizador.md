@@ -6,7 +6,7 @@
 
 | | |
 :---: | :---:
-![An alternative description](imagens/imagem1.png) | ![An alternative description](images/imagem2.png)
+![An alternative description](imagens/imagem1.png) | ![An alternative description](imagens/imagem2.png)
 Always add a description to help the user understand the figure |  Always add a description to help the user understand the figure 
 
 
