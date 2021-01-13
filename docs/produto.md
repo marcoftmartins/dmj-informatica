@@ -16,10 +16,9 @@ Neste site, estamos a usar o formulário como método de suporte!
 
 Qualquer cliente/usuário que queira entrar em contacto connosco seja para esclarecer alguma dúvida ou até mesmo reclamar, poderá faze-lo através do mesmo.
 
-## 3 Valadição do HTML5 e do CSS3
+## 3 Validação do HTML5 e do CSS3
 
-_Describe the method used to validate HTML and CSS. Don't forget to add details about the used validators. Show the validation results._
-_Add images, tables or reports of the tests performed._
+Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://validator.w3.org/)
 
 ## 4 Implementação dos requisitos
 
