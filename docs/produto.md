@@ -29,7 +29,7 @@ Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://
 
 ### CSS
 
-1- Seletores Simples [a](requisitos/css/Tabelas.png) // [a](requisitos/css/Css.png) // [b](requisitos/css/Screenshot_1.png) // [c](requisitos/css/Screenshot_2.png) // [d](requisitos/css/Screenshot_3.png)
+1- Seletores Simples [a](requisitos/css/Css.png) // [b](requisitos/css/Screenshot_1.png) // [c](requisitos/css/Screenshot_2.png) // [d](requisitos/css/Screenshot_3.png)
 
 2- [Seletor Pseudo-elemento](requisitos/css/Elemento.png)
 
