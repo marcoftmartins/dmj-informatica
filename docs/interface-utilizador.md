@@ -1,14 +1,15 @@
+#Criação de uma sketch e um Sitemap
 
-_Describe how you will organize infomation in the website. Remember that your website needs to be responsive. Please go "Mobile first"_
 
-## Interface and Common features
-_Add here your creative process results using sketchs or wireframes (or even both)_
+## Sketchs
 
-### Sketchs
-
-_Your sketch_
 
 | | |
 :---: | :---:
 ![An alternative description](images/image02.png) | ![An alternative description](images/image06.png)
 Always add a description to help the user understand the figure |  Always add a description to help the user understand the figure 
+
+
+## Sitemap
+
+_Add a diagram of your (Visual) sitemap. I'm not expecting a [XML Sitemap](https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap#expandable-1) ([Wikipedia](https://en.wikipedia.org/wiki/Sitemaps))_  
