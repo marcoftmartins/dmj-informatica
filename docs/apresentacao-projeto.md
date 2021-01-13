@@ -16,5 +16,5 @@
 
 ---
 _You can add a footer menu for navigation_ 
-< Previous | [^ Main](https://github.com/exemploTrabalho/report) | [Next >](interface-utilizador.md)
+< Previous | [^ Main](https://github.com/TIWM-TI01/dmj-informatica) | [Next >](interface-utilizador.md)
 :--- | :---: | ---: 
