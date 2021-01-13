@@ -22,7 +22,6 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 * Javascript
 
 ## Report
-_Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Apresentação do Projeto
 * C1: [Apresentação do Projeto](docs/apresentacao-projeto.md)
