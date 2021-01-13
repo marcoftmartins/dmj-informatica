@@ -14,3 +14,7 @@
 * João Paulo Teixeira Carvalho [@Johnnyzao](https://github.com/Johnnyzao)
 * Marco Filipe Teixeira Martins [@marcoftmartins](https://github.com/marcoftmartins)
 
+---
+_You can add a footer menu for navigation_ 
+< Previous | [^ Main](https://github.com/exemploTrabalho/report) | [Next >](interface-utilizador.md)
+:--- | :---: | ---: 
