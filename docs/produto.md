@@ -27,6 +27,30 @@ Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://
 
 7- [Formulário](requisitos/html/Formulário.png)
 
+### CSS
+
+1- [Seletores Simples](requisitos/css/Tabelas.png)
+
+2- [Seletor Pseudo-elemento](requisitos/css/Tabelas.png)
+
+3- [Propriedades](requisitos/css/Tabelas.png)
+
+4- [Formatação da Lista](requisitos/css/Tabelas.png)
+
+5- [Formatação da Página](requisitos/css/Tabelas.png)
+
+6- [Manipulação de 4 elementos](requisitos/css/Tabelas.png)
+
+7- [Float e Position](requisitos/css/Tabelas.png)
+
+8- [Esconder Elemento](requisitos/css/Tabelas.png)
+
+9- [Formatação de uma Table](requisitos/css/Tabelas.png)
+
+10- [Substituição de um Elemento](requisitos/css/Tabelas.png)
+
+11- [Responsividade de Ecrã](requisitos/css/Tabelas.png)
+
 ---
 [< Previous](interface-utilizador.md) | [^ Main](https://github.com/TIWM-TI01/dmj-informatica) | [Next >](produto.md)
 :--- | :---: | ---: 
