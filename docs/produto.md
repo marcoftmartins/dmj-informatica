@@ -37,7 +37,7 @@ Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://
 
 3- Propriedades [a](requisitos/css/Text.png) // [b](requisitos/css/Fonte.png)
 
-4- [Formatação da Lista](requisitos/css/.png)
+4- [Formatação da Lista](requisitos/css/forma_lista.png)
 
 5- [Formatação da Página](requisitos/css/Footer.png)
 
