@@ -32,11 +32,13 @@ Iremos apenas mostrar um exemplo de cada requisito.
 
 3- [Marcação(strong, mark)](requisitos/html/Strong_mark.png)
 
-4- [Ligações Interna](requisitos/html/LigaçõesInternas.png)
+4- [Imagens](requisitos/html/ImageCaption.png)
 
-5- [Ligações Interna](requisitos/html/LigaçõesExternas.png)
+5- [Ligação Interna](requisitos/html/LigaçõesInternas.png)
 
-6- [Formulário](requisitos/html/Formulário.png)
+6- [Ligação Externa](requisitos/html/LigaçõesExternas.png)
+
+7- [Formulário](requisitos/html/Formulário.png)
 
 ---
 [< Previous](interface-utilizador.md) | [^ Main](https://github.com/TIWM-TI01/dmj-informatica) | [Next >](produto.md)
