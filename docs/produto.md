@@ -22,6 +22,13 @@ Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://
 
 ## 4 Implementação dos requisitos
 
+### HTML
+
+1- Tabela
+2- Lista
+3- Marcação (strong, mark)
+4- Ligações (internos e externos)
+5- Formulário
 
 ---
 [< Previous](interface-utilizador.md) | [^ Main](https://github.com/TIWM-TI01/dmj-informatica) | [Next >](produto.md)
