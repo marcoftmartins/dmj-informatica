@@ -7,8 +7,8 @@ O objetivo primordial deste site era conseguir fazer uma loja de informática, q
 
 ## Organização do Repositório
 
-* **Source code** is in the [src folder](https://github.com/TIWM-TI01/dmj-informatica/tree/main/dmj-informatica).
-* Report chapters are in [doc folder](https://github.com/TIWM-TI01/dmj-informatica/tree/main/docs).
+* **Source code** o código do site encontra-se na pasta [src folder](https://github.com/TIWM-TI01/dmj-informatica/tree/main/dmj-informatica).
+* Os restantes documentos de apoio estão na pasta [doc folder](https://github.com/TIWM-TI01/dmj-informatica/tree/main/docs).
 
 ## Galeria
 
