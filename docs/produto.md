@@ -9,7 +9,7 @@ E finalmente na parte dos contactos, temos informações acerca da nossa loja, c
 
 Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://validator.w3.org/)
 
-![](imagens/header-promocoes.png)
+![](imagens/validation.png)
 
 ## Implementação dos requisitos
 
