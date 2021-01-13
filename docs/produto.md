@@ -1,28 +1,15 @@
-## 1 FAQ do Produto
+## Produto
 
-No canto superior direito do nosso website encontraremos as seguintes abas: Home, Sobre Nós, Categorias e Contactos.
+O nosso site está dividido em 4 grandes partes: Home, Produto, Sobre nós e Contactos.
+Na página principal temos acesso aos produtos que se encontram em promoção. Caso queiramos saber mais sobre um determinado produto, basta clicar no mesmo e seremos rederecionados para outra página onde estão descritas as caracteristicas e especificações completas do mesmo. Ainda na página inicial temos uma pequena seção onde os podemos consultar algumas reviews deixadas no nosso site pelos nossos clientes. 
+Na aba "Sobre Nós" encontramos uma breve descrição sobre quem somos, o que fazemos e o nosso objectivo.
+E finalmente na parte dos contactos, temos informações acerca da nossa loja, como a sua morada com o respetivo mapa e direções. Temos ainda um formulário para contactos, caso o cliente pretenda algum esclarecimento sobre algum assunto relacionado com a loja. Para isso basta preencher com os seus dados pessoais e entraremos em contacto o mais breve possível.
 
-A) O Home serve apenas para voltar à página principal.
-
-B) Na aba "Sobre Nós" podemos encontar uma breve descrição sobre quem somos e o nosso objectivo.
-
-C) Relativamente às Categorias, o utilizador terá acesso a uma 
-
-D) Por fim, em relação à aba dos "Contactos" é onde o utilizador poderá entrar em contacto diretamente connosco. Seja via telefónica ou via e-mail.
-
-## 2 Formulário
-
-Neste site, estamos a usar o formulário como método de suporte!
-
-Qualquer cliente/usuário que queira entrar em contacto connosco seja para esclarecer alguma dúvida ou até mesmo reclamar, poderá faze-lo através do mesmo.
-
-## 3 Validação do HTML5 e do CSS3
+## Validação do HTML5 e do CSS3
 
 Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://validator.w3.org/)
 
-## 4 Implementação dos requisitos
-
-Iremos apenas mostrar um exemplo de cada requisito.
+## Implementação dos requisitos
 
 ### HTML
 
@@ -39,30 +26,6 @@ Iremos apenas mostrar um exemplo de cada requisito.
 6- [Ligação Externa](requisitos/html/LigaçõesExternas.png)
 
 7- [Formulário](requisitos/html/Formulário.png)
-
-### CSS
-
-1- [Seletores Simples](requisitos/css/Tabelas.png)
-
-2- [Seletor Pseudo-elemento](requisitos/css/Tabelas.png)
-
-3- [Propriedades](requisitos/css/Tabelas.png)
-
-4- [Formatação da Lista](requisitos/css/Tabelas.png)
-
-5- [Formatação da Página](requisitos/css/Tabelas.png)
-
-6- [Manipulação de 4 elementos](requisitos/css/Tabelas.png)
-
-7- [Float e Position](requisitos/css/Tabelas.png)
-
-8- [Esconder Elemento](requisitos/css/Tabelas.png)
-
-9- [Formatação de uma Table](requisitos/css/Tabelas.png)
-
-10- [Substituição de um Elemento](requisitos/css/Tabelas.png)
-
-11- [Responsividade de Ecrã](requisitos/css/Tabelas.png)
 
 ---
 [< Previous](interface-utilizador.md) | [^ Main](https://github.com/TIWM-TI01/dmj-informatica) | [Next >](produto.md)
