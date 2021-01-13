@@ -24,7 +24,7 @@ Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://
 
 ### HTML
 
-1- [Tabela](html.Tabelas.png)
+1- [Tabela](html/Tabelas.png)
 
 2- Lista
 
