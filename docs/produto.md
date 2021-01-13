@@ -8,7 +8,6 @@ E finalmente na parte dos contactos, temos informações acerca da nossa loja, c
 ## Validação do HTML5 e do CSS3
 
 Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://validator.w3.org/)
-![](docs/imagens/validation.png)
 
 ## Implementação dos requisitos
 
@@ -30,27 +29,27 @@ Para a validação do código HTML5 e CSS3, foi usado o [W3C Validator](https://
 
 ### CSS
 
-1- [Seletores Simples](requisitos/css/Tabelas.png)
+1- Seletores Simples [a](requisitos/css/Tabelas.png) // [a](requisitos/css/Css.png) // [b](requisitos/css/Screenshot_1.png) // [c](requisitos/css/Screenshot_2.png) // [d](requisitos/css/Screenshot_3.png)
 
-2- [Seletor Pseudo-elemento](requisitos/css/Tabelas.png)
+2- [Seletor Pseudo-elemento](requisitos/css/Elemento.png)
 
-3- [Propriedades](requisitos/css/Tabelas.png)
+3- Propriedades [a](requisitos/css/Text.png) // [b](requisitos/css/Fonte.png)
 
-4- [Formatação da Lista](requisitos/css/Tabelas.png)
+4- [Formatação da Lista](requisitos/css/.png)
 
-5- [Formatação da Página](requisitos/css/Tabelas.png)
+5- [Formatação da Página](requisitos/css/Footer.png)
 
-6- [Manipulação de 4 elementos](requisitos/css/Tabelas.png)
+6- [Manipulação de 4 elementos](requisitos/css/ElementosHtml.png)
 
-7- [Float e Position](requisitos/css/Tabelas.png)
+7- Float e Position [a](requisitos/css/Floar.png) // [b](requisitos/css/Position.png) // [c](requisitos/css/Position_floar.png)
 
-8- [Esconder Elemento](requisitos/css/Tabelas.png)
+8- [Esconder Elemento](requisitos/css/Esconder_Elemento.png)
 
-9- [Formatação de uma Table](requisitos/css/Tabelas.png)
+9- [Formatação de uma Table](requisitos/css/Formatação_Tabela.png)
 
-10- [Substituição de um Elemento](requisitos/css/Tabelas.png)
+10- [Substituição de um Elemento](requisitos/css/Substituição_elemento_imagem.png)
 
-11- [Responsividade de Ecrã](requisitos/css/Tabelas.png)
+11- [Responsividade de Ecrã](requisitos/css/Media_Queries.png)
 
 ---
 [< Previous](interface-utilizador.md) | [^ Main](https://github.com/TIWM-TI01/dmj-informatica) | [Next >](produto.md)
