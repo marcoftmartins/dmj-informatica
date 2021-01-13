@@ -1,4 +1,4 @@
-#Criação de uma sketch e um Sitemap
+# Criação de uma Sketch e de um Sitemap
 
 
 ## Sketchs
@@ -6,8 +6,8 @@
 
 | | |
 :---: | :---:
-![An alternative description](imagens/imagem1.png) | ![An alternative description](imagens/imagem2.png)
-Always add a description to help the user understand the figure |  Always add a description to help the user understand the figure 
+![Home HTML](imagens/imagem1.png) | ![Mobile First](imagens/imagem2.png)
+Aqui podemos ver a sketch da nossa página principal. |  Nesta imagem podemos ver uma primeira impressão do nosso mobile first. 
 
 
 ## Sitemap
