@@ -12,11 +12,8 @@ Aqui podemos ver a sketch da nossa página principal. |  Nesta imagem podemos ve
 
 ## Sitemap
 
-| | |
-:---:
-![Home HTML](imagens/imagem3.png) |
-SiteMap. |
-
+![Home HTML](imagens/imagem3.png)  
+Sitemap do nosso website.
 
 
 ---
