@@ -12,6 +12,9 @@ Aqui podemos ver a sketch da nossa página principal. |  Nesta imagem podemos ve
 
 ## Sitemap
 
+| | |
+:---: | :---:
+![Home HTML](imagens/imagem3.png) |
 _Add a diagram of your (Visual) sitemap. I'm not expecting a [XML Sitemap](https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap#expandable-1) ([Wikipedia](https://en.wikipedia.org/wiki/Sitemaps))_  
 
 
