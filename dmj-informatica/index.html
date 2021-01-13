@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="https://kit.fontawesome.com/fc68db452a.js" crossorigin="anonymous"></script>
+  <script src="js/show-promotions.js"></script>
+  <title>DMJ Informática</title>
+</head>
+<body onload="loadData()">
+  <nav>
+   <input type="checkbox" id="check">
+   <label for="check" class="checkbtn">
+      <i class="fas fa-bars"></i>
+   </label>
+    <a href="#"><img class="logo" src="images/logo.png" alt="logo"/></a>
+    <label class="text-logo">DMJ INFORMÁTICA</label>
+      <ul class="menu">
+         <li><i class="fas fa-search"></i><input type="text" name="search-bar" placeholder="Procurar produtos"></li>
+         <li><a class="active" href="#"><i class="fas fa-home"></i>Home</a></li>
+         <li><a href="pages/about-us.html"><i class="fas fa-info-circle"></i>Sobre Nós</a></li>
+         <li id="categories" class="categories"><a href="#"><i class="fas fa-bars"></i>Categorias</a></li>
+         <li><a href="pages/contact.html"><i class="fas fa-phone-alt"></i>Contactos</a></li>
+      </ul>
+  </nav>
+  
+
+  <main>
+    <div class="promo-products">
+       <div class="promo-section">
+         <h2 class="promo-section-title"><strong>Produtos em Campanha</strong></h2>
+         <p class="promo-section-p">Está à procura de <mark>boas promoções</mark>?<br/>Aproveite e dê uma olhada no que temos para oferecer!</p>
+         <div id="products"></div>
+       </div>
+    </div>
+
+    <div class="review-section">
+      <h2 class="review-section-title">O que dizem os nossos clientes!</h2>
+      <p class="review-section-p">Veja alguns dos comentários e opiniões dos clientes ao nosso serviço.</p>
+      
+      <div class="reviews">
+
+        <div class="review">
+           <div class="background-review">
+              <p class="name-review">Diogo Castro</p>
+              <div class="rating">
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star-half"></i>
+              </div>
+              <p class="review-description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati eligendi suscipit illum officia ex eos.</p>
+           </div>
+        </div>
+
+        <div class="review">
+           <div class="background-review">
+              <p class="name-review">Marco Martins</p>
+              <div class="rating">
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+              </div>
+              <p class="review-description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati eligendi suscipit illum officia ex eos.</p>
+           </div>
+        </div>
+
+        <div class="review">
+           <div class="background-review">
+              <p class="name-review">João Paulo</p>
+              <div class="rating">
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star"></i>
+                 <i class="fas fa-star-half"></i>
+              </div>
+              <p class="review-description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati eligendi suscipit illum officia ex eos.</p>
+           </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+   <div class="footer">
+		<div class="inner-footer">
+			<div class="footer-items">
+				<h1>DMJ INFORMÁTICA</h1>
+				<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita cumque laboriosam molestiae atque corporis iure eveniet aliquam nihil! Maiores totam fugiat, quibusdam non dolor at sunt neque. Corrupti, minus molestias!
+				</p>
+			</div>
+			<div class="footer-items">
+				<h2>Menus</h2>
+				<hr/>
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="pages/about-us.html">Sobre Nós</a></li>
+					<li><a href="pages/contact.html">Contactos</a></li>
+				</ul>
+			</div>
+			<div class="footer-items">
+				<h2>Informações</h2>
+				<hr/>
+				<ul>
+					<li><a href="#">Modos de Pagamento</a></li>
+					<li><a href="#">Envio de Encomendas e Portes</a></li>
+					<li><a href="#">Trocas e Devoluções</a></li>
+					<li><a href="#">Termos/Política de Privacidade</a></li>
+				</ul>
+			</div>
+			<div class="footer-items">
+				<h2>Contacte-nos</h2>
+            <hr/>
+				<ul>
+					<li><i class="fas fa-map-marker-alt"></i>Av. Fernão Magalhães, Paranhos 4350-174 - Porto</li>
+					<li><i class="fas fa-phone-alt"></i>999-999-999</li>
+					<li><i class="fas fa-envelope"></i>tecnica@dmj.com</li>
+				</ul>
+			</div>
+			
+		</div>
+		<div class="footer-bottom">Copyright &copy;DMJ INFORMÁTICA 2021. Todos os direitos reservados.</div>
+	</div>
+  </footer>
+</body>
+</html>
