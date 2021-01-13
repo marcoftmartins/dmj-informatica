@@ -7,7 +7,7 @@
 | | |
 :---: | :---:
 ![Home HTML](imagens/imagem1.png) | ![Mobile First](imagens/imagem2.png)
-Aqui podemos ver a sketch da nossa página principal. |  Nesta imagem podemos ver uma primeira impressão do nosso mobile first. 
+Aqui podemos ver a sketch da nossa página principal. |  Nesta imagem podemos ver uma primeira impressão do nosso site para a versão mobile. 
 
 
 ## Sitemap
