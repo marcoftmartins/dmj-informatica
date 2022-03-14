@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Store xmlns="http://www.example.org/products" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.example.org/products products.xsd">
+	<Product>
+		<Type>Placa Gráfica</Type>
+		<EAN>4713436173052</EAN>
+		<Name>Radeon RX 6800 XT</Name>
+		<BaseClock>1825</BaseClock>
+		<VideoMemory>16</VideoMemory>
+		<Description>A placa gráfica AMD Radeon™ RX 6800 XT , alimentada pela arquitetura AMD RDNA™ 2, oferecendo 72 unidades avançadas de computação poderosas, 128 MB do mais novo AMD Infinity Cache e 16GB de memória GDDR6 dedicada, foi desenvolvida para oferecer taxas de frames ultra altas e jogos em resolução 4K de alto nível.</Description>
+		<Image>../images/products/graphics-card/gpu1.webp</Image>
+		<CurrentPrice>12</CurrentPrice>
+		<PermanentPrice>13</PermanentPrice>
+	</Product>
+
+	<Product>
+		<Type>Motherboard</Type>
+		<EAN>4719331803780</EAN>
+		<Name>Gigabyte H310M S2</Name>
+		<Chipset>Intel H310</Chipset>
+		<Description>O Realtek 8118 LAN é um chip de rede de alto desempenho e amigável para jogadores com alocação automática de largura de banda para garantir a mais alta prioridade de rede do jogo ou aplicativo. Ele pode fornecer aos utilizadores os recursos mais abrangentes e a experiência da Internet mais rápida e suave.</Description>
+		<Image>../images/products/motherboards/mb1.jpg</Image>
+		<CurrentPrice>55.90</CurrentPrice>
+		<PermanentPrice>69.99</PermanentPrice>
+	</Product>
+	
+	<Product>
+		<Type>Processador</Type>
+		<EAN>675901763639</EAN>
+		<Name>Intel Core i7 9700 8-Core</Name>
+		<BaseClock>3</BaseClock>
+		<Cache>12</Cache>
+		<CoreNumber>8</CoreNumber>
+		<Description>A memória Intel® Optane™ é uma nova classe revolucionária de memória não volátil que se situa entre a memória do sistema e o armazenamento para aumentar o desempenho e melhorar a capacidade de resposta do sistema. Quando combinada com o driver da Tecnologia de Armazenamento Rápido Intel®, gere de forma transparente múltiplos níveis de armazenamento, mostrando uma única unidade virtual ao sistema operativo e assegurando que os dados que são utilizados com mais frequência se encontram na camada mais rápida de armazenamento. A Memória Intel® Optane™ requer uma configuração específica de hardware e software.</Description>
+		<Image>../images/products/processors/cpu1.jpg</Image>
+		<CurrentPrice>298.99</CurrentPrice>
+		<PermanentPrice>299.99</PermanentPrice>
+	</Product>
+</Store>
